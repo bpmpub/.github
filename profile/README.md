@@ -31,11 +31,11 @@ Our publicists truly love what we do.
 
 ## ⚡️ WHAT'S HERE
 
-Team BPM builds its own tools. This is where they live.
+Team BPM builds some of its own tools. This is where they live.
 
 | Repo | What it does |
 | --- | --- |
-| [`showcal`](https://github.com/bpmpub/showcal) | Artist shows in one place. Filter by publicist, artist, and city. |
+| [`calendar`](https://github.com/bpmpub/calendar) | Artist shows in one place. Filter by publicist, artist, and city. |
 
 Some repos stay private because they hold client info.
 <br>
