@@ -10,7 +10,7 @@ Founded in 2007 by Dayna Ghiraldi-Travers. A boutique, all-female team of public
 
 <div align="center">
 
-<a href="mailto:dayna@bpmpublicity.com"><img src="assets/btn-contact.png" alt="Contact team BPM" height="44"></a>&nbsp;&nbsp;<a href="https://bpmpublicity.com"><img src="assets/btn-know.png" alt="Get to know us" height="44"></a>
+<a href="mailto:natalie@bpmpublicity.com"><img src="assets/btn-contact.png" alt="Contact team BPM" height="44"></a>&nbsp;&nbsp;<a href="https://bpmpublicity.com"><img src="assets/btn-know.png" alt="Get to know us" height="44"></a>
 
 </div>
 
@@ -35,17 +35,14 @@ Team BPM builds its own tools. This is where they live.
 
 | Repo | What it does |
 | --- | --- |
-| [`show-calendar`](https://github.com/ORG-NAME/show-calendar) | Artist shows in one place. Filter by publicist, artist, and city. |
+| [`showcal`](https://github.com/bpmpub/showcal) | Artist shows in one place. Filter by publicist, artist, and city. |
 
 Some repos stay private because they hold client info.
-
-**[EXPLORE THE REPOS](https://github.com/ORG-NAME) ❯❯❯**
-
 <br>
 
 <div align="center">
 
-<img src="assets/say-hello.png" alt="Say hello! dayna@bpmpublicity.com, bpmpublicity.com, @bigpicturemedia" width="100%">
+<img src="assets/say-hello.png" alt="Say hello! natalie@bpmpublicity.com, bpmpublicity.com, @bigpicturemedia" width="100%">
 
 **NY · NJ · LA · BOSTON · TUCSON**
 
